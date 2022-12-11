@@ -115,6 +115,9 @@
     margin: 0;
     padding: 0;
 }
+.aside-button .button-icon{
+    margin-right: 0;
+}
 .aside-footer__email {
     display:inline;
     font-family:"TTLakes Meduim";
